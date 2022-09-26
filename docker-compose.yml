@@ -1,0 +1,5 @@
+version: "3"
+services:
+  trade:
+    build: .
+    image: ghcr.io/ylilarry/trade
